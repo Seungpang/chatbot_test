@@ -8,11 +8,13 @@ https://console.developers.google.com/
 ![1](./img/1.png)
 + 라이브러리에 들어가서 Google Drive API로 검색을 한다.
 <br/>
+  
 ![2](./img/2.png)
 <br/>
 + Google Drive API를 누르고 사용을 누른다.
 + Google Drive API관리를 누르면 아래와 우측 상단의 사용자 인증 정보 만들기를 클릭한다.
 <br/>
+  
 ![3](./img/3.jpeg)
 
 ### 사용자 인증 정보
